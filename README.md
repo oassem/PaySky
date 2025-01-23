@@ -108,7 +108,7 @@ http://127.0.0.1:8000/api
     {
         "data": {
             "id": 2,
-            "total_amount": 440.00000000000006,
+            "total_amount": "440.00",
             "status": "pending",
             "created_at": "2025-01-23T16:53:49.000000Z",
             "updated_at": "2025-01-23T16:53:49.000000Z",
@@ -117,6 +117,7 @@ http://127.0.0.1:8000/api
                     "id": 1,
                     "name": "Product 1",
                     "price": "100.00",
+                    "quantity": 2,
                     "created_at": "2025-01-23T14:33:26.000000Z",
                     "updated_at": "2025-01-23T14:33:26.000000Z"
                 },
@@ -124,6 +125,7 @@ http://127.0.0.1:8000/api
                     "id": 2,
                     "name": "Product 2",
                     "price": "200.00",
+                    "quantity": 1,
                     "created_at": "2025-01-23T14:33:26.000000Z",
                     "updated_at": "2025-01-23T14:33:26.000000Z"
                 }
@@ -141,7 +143,7 @@ http://127.0.0.1:8000/api
     {
         "data": {
             "id": 2,
-            "total_amount": 440.00000000000006,
+            "total_amount": "440.00",
             "status": "pending",
             "created_at": "2025-01-23T16:53:49.000000Z",
             "updated_at": "2025-01-23T16:53:49.000000Z",
@@ -150,6 +152,7 @@ http://127.0.0.1:8000/api
                     "id": 1,
                     "name": "Product 1",
                     "price": "100.00",
+                    "quantity": 2,
                     "created_at": "2025-01-23T14:33:26.000000Z",
                     "updated_at": "2025-01-23T14:33:26.000000Z"
                 },
@@ -157,6 +160,7 @@ http://127.0.0.1:8000/api
                     "id": 2,
                     "name": "Product 2",
                     "price": "200.00",
+                    "quantity": 1,
                     "created_at": "2025-01-23T14:33:26.000000Z",
                     "updated_at": "2025-01-23T14:33:26.000000Z"
                 }
