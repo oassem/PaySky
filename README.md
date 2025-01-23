@@ -5,7 +5,7 @@ This is a simple Laravel-based API for handling orders and payments for an e-com
 ---
 
 ## **Table of Contents**
-1. [Features]
+1. [Features](Features)
 2. [Technologies Used]
 3. [Setup Instructions]
 4. [API Documentation]
